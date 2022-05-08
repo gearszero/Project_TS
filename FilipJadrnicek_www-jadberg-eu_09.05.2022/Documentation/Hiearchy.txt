@@ -1,0 +1,53 @@
+Testování stránky jadberg.eu
+
+    001 - Testování hlavní stránky
+        MP0001 : Testování spuštění stránky
+        MP0002 : Testování hlavní slideshow
+        MP0003 : Přijímání cookies
+        MP0004 : Klikání na obrázky v sekci akce
+        MP0005 : Testování spodní slideshow
+        MP0006 : Testování Spodních odkazů v zeleném rámečku
+        MP0007 : Testování úplně Spodních odkazů
+
+    002 - Testování Login Formuláře
+        LF0001 : Testování prázného login formuláře
+        LF0002 : Testování login formuláře s nevalidnímy vstupy
+
+    003 - Testování Formuláře pro zapomenuté heslo
+        FP0001 : Testování přesměrování na formulář se zapomenutým heslem
+        FP0002 : Posílání prázného formuláře
+        FP0003 : Posílání formuláře s neexistujícím emailem
+
+    004 - Testování vrchní navigace a vyhledávání
+        NAS0001 : Poklikávání navigace a kontrolování zda odkazuje na správnou stránku
+        NAS0002 : Testování odkazu v logu
+        NAS0003 : Testovaní funkce hover over elementu
+        NAS0004 : Testování vyhledávání
+
+    005 - Testování formuláře pro registraci
+        RF0001 : Testování zda nás odkaz odkáže na stránku s formulářem
+        RF0002 : Testování prázdného formuláře
+        RF0003 : Testování formuláře po zadání jména
+        RF0004 : Testování formuláře po zadání příjmeni
+        RF0005 : Testování formuláře po zadání nevalidního emailu
+        RF0006 : Testování formuláře po zadání validního emailu
+        RF0007 : Testování formuláře po zadání nevalidního telefoního čísla
+        RF0008 : Testování formuláře po zadání validního telefoního čísla
+        RF0009 : estování formuláře po zadání firmy
+        RF0010 : estování formuláře po zadání adresy
+        RF0011 : estování formuláře po zadání města
+        RF0012 : Testování formuláře po zadání nevalidního PSČ
+        RF0013 : Testování formuláře po zadání validního PSČ
+        RF0014 : Testování formuláře po vybrání jiného státu
+        RF0015 : Testování formuláře po zadání nevalidního IČ
+        RF0016 : Testování formuláře po zadání nevalidního DIČ
+        RF0017 : Testování formuláře po zadání dvou různých hesel
+        RF0018 : Testování formuláře po zadání dvou shodných hesel
+        RF0019 : Testování formuláře po odškrknutí checkboxů
+
+    006 - Testování nakupování a košíku
+        SHP0001 : Testování vyhledávání produktu a jeho nákupu s výběrem atd
+        SHP0002 : Testování tlačítko na přesměrování do košíku
+        SHP0003 : Testování tláčítka na vrácení se z košíku
+        SHP0004 : Testování doručovacích společností
+        SHP0005 : TTestování oddělávání zboží
